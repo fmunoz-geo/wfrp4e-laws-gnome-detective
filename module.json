@@ -28,6 +28,6 @@
   }
   ],
   "url": "https://github.com/fmunoz-geo/wfrp4e-laws-gnome-detective",
-  "manifest": "https://github.com/fmunoz-geo/wfrp4e-laws-gnome-detective/releases/download/1.0.0/module.json",
+  "manifest": "https://raw.githubusercontent.com/fmunoz-geo/wfrp4e-laws-gnome-detective/main/module.json",
   "download": "https://github.com/fmunoz-geo/wfrp4e-laws-gnome-detective/releases/download/1.0.0/wfrp4e-laws-gnome-detective.zip"
 }
