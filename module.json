@@ -35,6 +35,15 @@
 		"path": "packs/tables-gnome-detective.db",
 		"system": "wfrp4e",
 		"module": "wfrp4e-laws-gnome-detective"
+		},
+		{
+		"name": "gnome_macros",
+		"label": "Macros (Gnome Detective)",
+		"type": "Macro",
+		"entity": "Macro",
+		"path": "packs/macros-gnome-detective.db",
+		"system": "wfrp4e",
+		"module": "wfrp4e-laws-gnome-detective"
 		}
   ],
   "url": "https://github.com/fmunoz-geo/wfrp4e-laws-gnome-detective",

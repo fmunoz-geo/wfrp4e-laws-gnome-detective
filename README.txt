@@ -10,6 +10,9 @@ Clearly based on Agatha Christie’s fictional detective Hercule Poirot, the Bre
 While he is not the only Gnome NPC to appear in a WFRP adventure, he is by far the best-loved. So when he appeared as a Halfling in that adventure’s 4th edition update in The Horned Rat Companion, there was a storm of protest from Gnome fans. The hashtag #SaveAlphonse was used in passionate appeals on Twitter and elsewhere.
 While the effect of these appeals remains to be seen, I asked Andy Law, the creator of the Gnome rules from Rough Nights and Hard Days, to give us his version of the great Gnome detective. Here it is, along with some notes from Andy explaining his reasoning behind some key decisions."
 
+To install it use copy the manifest url in your setup module tab:
+https://raw.githubusercontent.com/fmunoz-geo/wfrp4e-laws-gnome-detective/main/module.json
+
 
 Gnome Stats: Andrew Law
 Blog publish and more: Graeme Davis
